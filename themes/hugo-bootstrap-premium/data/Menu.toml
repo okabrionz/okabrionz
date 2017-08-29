@@ -1,0 +1,20 @@
+[about]
+Name = "About"
+URL = "/about"
+
+[blog]
+Name = "Blog"
+URL = "/post"
+
+[dashboard]
+Name = "Contact"
+URL = "/contact"
+
+
+[posts]
+Name = "Posts"
+URL = "/post"
+
+[tags]
+Name = "Tags"
+URL = "/tags"
