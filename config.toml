@@ -1,9 +1,9 @@
 baseURL = "/"
 
-# hostname (and path) to the root eg. http://spf13.com/
+# hostname (and path) to the root eg. https://www.okabrionz.com/
 
 
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "id"
 
 # If you want all of the languages to be put below their respective language code,
 # enable DefaultContentLanguageInSubdir = true. Without enabling it english content
@@ -11,7 +11,7 @@ DefaultContentLanguage = "en"
 # See [Languages] settings at the end of this file.
 
 # Language
-languageCode = "en"
+languageCode = "id"
 
 # SES friendly url:s
 canonifyurls = true
@@ -21,14 +21,14 @@ canonifyurls = true
 metaDataFormat = "toml"
 
 # Theme to use (located in /themes/THEMENAME/)
-theme = "hugo-bootstrap-premium"
+theme = "hbp"
 
 # Pagination
 paginate = 10
 paginatePath = "page"
 
 # Enable Disqus integration
-disqusShortname = "brionz"
+disqusShortname = ""
 
 [permalinks]
     post = "/:year/:month/:day/:filename/"
