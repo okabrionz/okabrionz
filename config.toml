@@ -3,7 +3,7 @@ baseURL = "/"
 # hostname (and path) to the root eg. https://www.okabrionz.com/
 
 
-DefaultContentLanguage = "id"
+DefaultContentLanguage = "en"
 
 # If you want all of the languages to be put below their respective language code,
 # enable DefaultContentLanguageInSubdir = true. Without enabling it english content
